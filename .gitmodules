@@ -1,3 +1,12 @@
 [submodule "terraform-google-vm"]
 	path = terraform-google-vm
 	url = https://github.com/terraform-google-modules/terraform-google-vm.git
+[submodule "learn-terraform-provision-gke-cluster"]
+	path = learn-terraform-provision-gke-cluster
+	url = https://github.com/hashicorp/learn-terraform-provision-gke-cluster.git
+[submodule "cloud-ops-sandbox"]
+	path = cloud-ops-sandbox
+	url = https://github.com/GoogleCloudPlatform/cloud-ops-sandbox.git
+[submodule "microservices-demo"]
+	path = microservices-demo
+	url = https://github.com/GoogleCloudPlatform/microservices-demo.git
