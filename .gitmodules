@@ -10,3 +10,6 @@
 [submodule "microservices-demo"]
 	path = microservices-demo
 	url = https://github.com/GoogleCloudPlatform/microservices-demo.git
+[submodule "continuous-deployment-on-kubernetes"]
+	path = continuous-deployment-on-kubernetes
+	url = https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes.git
